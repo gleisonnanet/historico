@@ -57,6 +57,14 @@
 |ANGULAR |  ![progress](https://progress-bar.dev/90/ "progresso")||
 |REACT |  ![progress](https://progress-bar.dev/70/ "progresso")||
 |JQUERY |  ![progress](https://progress-bar.dev/60/ "progresso")||
+|Twitter Bootstrap |  ![progress](https://progress-bar.dev/60/ "progresso")||
+|Material Design |  ![progress](https://progress-bar.dev/60/ "progresso")||
+|Semantic UI |  ![progress](https://progress-bar.dev/60/ "progresso")||
+ 
+ 
+ 
+ 
+ 
 
 
 
