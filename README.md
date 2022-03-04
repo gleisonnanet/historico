@@ -1,7 +1,7 @@
 
 | Foto  | Nome                  | Fone              | Email                   |
 |-------|-----------------------|-------------------|-------------------------|
-|  ![Gleison de souza luiz][./gleison.jpg]  | Gleison de souza luiz | +5519987676233    | gleisonnanet@gmail.com  |
+|  ![Gleison de souza luiz](./gleison.jpg)  | Gleison de souza luiz | +5519987676233    | gleisonnanet@gmail.com  |
 
 
 | Ano  | Projeto                                            |  |
