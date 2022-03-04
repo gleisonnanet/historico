@@ -26,26 +26,26 @@
 
 |Habilidades| % ||
 |--|--|--|
-|WINDOWS| <progress value="80" max="100">4%</progress>||
-|LINUX| <progress value="90" max="100">4%</progress>||
-|FREEBSD| <progress value="50" max="100">4%</progress> ||
-|PHP| <progress value="50" max="100">4%</progress> ||
-|PYTHON| <progress value="70" max="100">4%</progress> ||
-|C#| <progress value="60" max="100">4%</progress> ||
-|C++| <progress value="50" max="100">4%</progress> ||
-|MYSQL| <progress value="50" max="100">4%</progress> ||
-|POSTGRESS| <progress value="50" max="100">4%</progress> ||
-|UNITY3D| <progress value="80" max="100">4%</progress> ||
-|UNREAL ENGINE| <progress value="80" max="100">4%</progress> ||
-|BLENDER 3D| <progress value="90" max="100">4%</progress> ||
-|UPBGE| <progress value="95" max="100">4%</progress> ||
-|QTFRAMEWORK| <progress value="30" max="100">4%</progress> ||
-|DELPHI| <progress value="60" max="100">4%</progress> ||
-|DOCKER| <progress value="50" max="100">4%</progress> ||
-|APACHE| <progress value="50" max="100">4%</progress> ||
-|VI| <progress value="1" max="100">4%</progress> ||
-|NANO| <progress value="60" max="100">4%</progress> ||
-|GIT| <progress value="50" max="100">4%</progress> ||
-|JAVASCRIPT| <progress value="80" max="100">4%</progress> ||
-|TYPESCRIPT| <progress value="80" max="100">4%</progress>||
+|WINDOWS| <progress value="80" max="100">80%</progress>||
+|LINUX| <progress value="90" max="100">90%</progress>||
+|FREEBSD| <progress value="50" max="100">50%</progress> ||
+|PHP| <progress value="50" max="100">50%</progress> ||
+|PYTHON| <progress value="70" max="100">70%</progress> ||
+|C#| <progress value="60" max="100">60%</progress> ||
+|C++| <progress value="50" max="100">50%</progress> ||
+|MYSQL| <progress value="50" max="100">50%</progress> ||
+|POSTGRESS| <progress value="50" max="100">50%</progress> ||
+|UNITY3D| <progress value="80" max="100">80%</progress> ||
+|UNREAL ENGINE| <progress value="80" max="100">80%</progress> ||
+|BLENDER 3D| <progress value="90" max="100">90%</progress> ||
+|UPBGE| <progress value="95" max="100">95%</progress> ||
+|QTFRAMEWORK| <progress value="30" max="100">30%</progress> ||
+|DELPHI| <progress value="60" max="100">60%</progress> ||
+|DOCKER| <progress value="50" max="100">50%</progress> ||
+|APACHE| <progress value="50" max="100">50%</progress> ||
+|VI| <progress value="1" max="100">1%</progress> ||
+|NANO| <progress value="60" max="100">60%</progress> ||
+|GIT| <progress value="50" max="100">50%</progress> ||
+|JAVASCRIPT| <progress value="80" max="100">80%</progress> ||
+|TYPESCRIPT| <progress value="80" max="100">80%</progress>||
 
