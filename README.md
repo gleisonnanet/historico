@@ -22,3 +22,30 @@
 |2019-2020| Web emplaca <br>Sistema de emplacamento de veículos <br> integração Serpro/Mercosul <br> integração Detran/Denatran | |
 |2021-2022 | Sistemas gestão de frota de ônibus e Marketplaces  b2b <br> Sistema de venda de ticket de ônibus em espanhol " Bolívia " |  |
 
+
+
+|Habilidades| % ||
+|--|--|--|
+|WINDOWS| <progress value="80" max="100">4%</progress>||
+|LINUX| <progress value="90" max="100">4%</progress>||
+|FREEBSD| <progress value="50" max="100">4%</progress> ||
+|PHP| <progress value="50" max="100">4%</progress> ||
+|PYTHON| <progress value="70" max="100">4%</progress> ||
+|C#| <progress value="60" max="100">4%</progress> ||
+|C++| <progress value="50" max="100">4%</progress> ||
+|MYSQL| <progress value="50" max="100">4%</progress> ||
+|POSTGRESS| <progress value="50" max="100">4%</progress> ||
+|UNITY3D| <progress value="80" max="100">4%</progress> ||
+|UNREAL ENGINE| <progress value="80" max="100">4%</progress> ||
+|BLENDER 3D| <progress value="90" max="100">4%</progress> ||
+|UPBGE| <progress value="95" max="100">4%</progress> ||
+|QTFRAMEWORK| <progress value="30" max="100">4%</progress> ||
+|DELPHI| <progress value="60" max="100">4%</progress> ||
+|DOCKER| <progress value="50" max="100">4%</progress> ||
+|APACHE| <progress value="50" max="100">4%</progress> ||
+|VI| <progress value="1" max="100">4%</progress> ||
+|NANO| <progress value="60" max="100">4%</progress> ||
+|GIT| <progress value="50" max="100">4%</progress> ||
+|JAVASCRIPT| <progress value="80" max="100">4%</progress> ||
+|TYPESCRIPT| <progress value="80" max="100">4%</progress>||
+
