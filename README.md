@@ -26,26 +26,28 @@
 
 |Habilidades| % ||
 |--|--|--|
-|WINDOWS| <progress value="80" max="100">80%</progress>||
-|LINUX| <progress value="90" max="100">90%</progress>||
-|FREEBSD| <progress value="50" max="100">50%</progress> ||
-|PHP| <progress value="50" max="100">50%</progress> ||
-|PYTHON| <progress value="70" max="100">70%</progress> ||
-|C#| <progress value="60" max="100">60%</progress> ||
-|C++| <progress value="50" max="100">50%</progress> ||
-|MYSQL| <progress value="50" max="100">50%</progress> ||
-|POSTGRESS| <progress value="50" max="100">50%</progress> ||
-|UNITY3D| <progress value="80" max="100">80%</progress> ||
-|UNREAL ENGINE| <progress value="80" max="100">80%</progress> ||
-|BLENDER 3D| <progress value="90" max="100">90%</progress> ||
-|UPBGE| <progress value="95" max="100">95%</progress> ||
-|QTFRAMEWORK| <progress value="30" max="100">30%</progress> ||
-|DELPHI| <progress value="60" max="100">60%</progress> ||
-|DOCKER| <progress value="50" max="100">50%</progress> ||
-|APACHE| <progress value="50" max="100">50%</progress> ||
-|VI| <progress value="1" max="100">1%</progress> ||
-|NANO| <progress value="60" max="100">60%</progress> ||
-|GIT| <progress value="50" max="100">50%</progress> ||
-|JAVASCRIPT| <progress value="80" max="100">80%</progress> ||
-|TYPESCRIPT| <progress value="80" max="100">80%</progress>||
+|WINDOWS| ![progress](https://progress-bar.dev/80/ "progresso")||
+|LINUX|  ![progress](https://progress-bar.dev/90/ "progresso")||
+|FREEBSD|  ![progress](https://progress-bar.dev/70/ "progresso") ||
+|PHP|  ![progress](https://progress-bar.dev/70/ "progresso")||
+|PYTHON|  ![progress](https://progress-bar.dev/70/ "progresso") ||
+|C#|  ![progress](https://progress-bar.dev/70/ "progresso") ||
+|C++| ![progress](https://progress-bar.dev/40/ "progresso") ||
+|MYSQL|  ![progress](https://progress-bar.dev/50/ "progresso") ||
+|POSTGRESS|  ![progress](https://progress-bar.dev/50/ "progresso") ||
+|UNITY3D|  ![progress](https://progress-bar.dev/80/ "progresso") ||
+|UNREAL ENGINE|  ![progress](https://progress-bar.dev/80/ "progresso") ||
+|BLENDER 3D|  ![progress](https://progress-bar.dev/90/ "progresso") ||
+|UPBGE|  ![progress](https://progress-bar.dev/95/ "progresso")||
+|QTFRAMEWORK|  ![progress](https://progress-bar.dev/60/ "progresso")||
+|DELPHI|  ![progress](https://progress-bar.dev/60/ "progresso") ||
+|DOCKER|  ![progress](https://progress-bar.dev/50/ "progresso")||
+|APACHE|  ![progress](https://progress-bar.dev/50/ "progresso") ||
+|VI|  ![progress](https://progress-bar.dev/5/ "progresso") ||
+|NANO|  ![progress](https://progress-bar.dev/60/ "progresso") ||
+|GIT|  ![progress](https://progress-bar.dev/70/ "progresso") ||
+|JAVASCRIPT|  ![progress](https://progress-bar.dev/80/ "progresso") ||
+|TYPESCRIPT|  ![progress](https://progress-bar.dev/80/ "progresso")||
+|MARKDOWN|  ![progress](https://progress-bar.dev/30/ "progresso")||
+|HTML|  ![progress](https://progress-bar.dev/90/ "progresso")||
 
