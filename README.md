@@ -52,4 +52,10 @@
 |HTML|  ![progress](https://progress-bar.dev/90/ "progresso")||
 |LARAVEL|  ![progress](https://progress-bar.dev/70/ "progresso")||
 |SYMFONY |  ![progress](https://progress-bar.dev/80/ "progresso")||
+|DJANGO |  ![progress](https://progress-bar.dev/70/ "progresso")||
+|DJANGO REST FRAMEWORK |  ![progress](https://progress-bar.dev/90/ "progresso")||
+|ANGULAR |  ![progress](https://progress-bar.dev/90/ "progresso")||
+|REACT |  ![progress](https://progress-bar.dev/60/ "progresso")||
+
+
 
