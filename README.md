@@ -55,7 +55,8 @@
 |DJANGO |  ![progress](https://progress-bar.dev/70/ "progresso")||
 |DJANGO REST FRAMEWORK |  ![progress](https://progress-bar.dev/90/ "progresso")||
 |ANGULAR |  ![progress](https://progress-bar.dev/90/ "progresso")||
-|REACT |  ![progress](https://progress-bar.dev/60/ "progresso")||
+|REACT |  ![progress](https://progress-bar.dev/70/ "progresso")||
+|JQUERY |  ![progress](https://progress-bar.dev/60/ "progresso")||
 
 
 
