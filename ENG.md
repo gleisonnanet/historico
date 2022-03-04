@@ -17,7 +17,7 @@
 |2016 | hang glider simulator <br> https://www.youtube.com/watch?v=xKENdrhu-d4 <br> https://www.youtube.com/watch?v=OxrcJ1MtyJU&t=76s | |
 |2017 | Project i9corp <br> Call center management systems design  | |
 |2017 | Project Game <br> https://www.youtube.com/watch?v=Fgh2TyWNgH8&t=8s | |
-|2019 | Palestra CAMPUS PARTY |  |
+|2019 | Palestra CAMPUS PARTY https://brasil.campus-party.org |  |
 |2019 |virtual card <br> https://www.youtube.com/watch?v=F1Vi6wj-vys |  |
 |2019-2020| web plate  <br>Vehicle registration system <br> integration Serpro/Mercosul <br> integration Detran/Denatran brazil | |
 |2021-2022 | Bus fleet management systems and b2b Marketplaces  <br> Bus ticket sales system in Spanish "Bolivia" |  |
