@@ -50,4 +50,6 @@
 |TYPESCRIPT|  ![progress](https://progress-bar.dev/80/ "progresso")||
 |MARKDOWN|  ![progress](https://progress-bar.dev/30/ "progresso")||
 |HTML|  ![progress](https://progress-bar.dev/90/ "progresso")||
+|LARAVEL|  ![progress](https://progress-bar.dev/70/ "progresso")||
+|SYMFONY |  ![progress](https://progress-bar.dev/80/ "progresso")||
 
