@@ -17,7 +17,7 @@
 |2016 | Simulador de Asa Delta <br> https://www.youtube.com/watch?v=xKENdrhu-d4 <br> https://www.youtube.com/watch?v=OxrcJ1MtyJU&t=76s | |
 |2017 | Projeto i9corp <br> Projeto de sistemas gerenciamento de call cente | |
 |2017 | Prototipo Game <br> https://www.youtube.com/watch?v=Fgh2TyWNgH8&t=8s | |
-|2019 | Palestra CAMPUS PARTY |  |
+|2019 | Palestra CAMPUS PARTY https://brasil.campus-party.org/cpbr14/ |  |
 |2019 |Cartão virtual <br> https://www.youtube.com/watch?v=F1Vi6wj-vys |  |
 |2019-2020| Web emplaca <br>Sistema de emplacamento de veículos <br> integração Serpro/Mercosul <br> integração Detran/Denatran | |
 |2021-2022 | Sistemas gestão de frota de ônibus e Marketplaces  b2b <br> Sistema de venda de ticket de ônibus em espanhol " Bolívia " |  |
