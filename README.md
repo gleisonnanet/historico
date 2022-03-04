@@ -24,9 +24,9 @@
 
 
 
-|Habilidades| % ------------------------------- |-------------------------------|
-|--|--|--|
-|WINDOWS| ![progress](https://progress-bar.dev/80/ "progresso")|-------------------------------|
+|Habilidades| % ||
+|--| ---------------------------------------------------------------------------------------------- |--|
+|WINDOWS| ![progress](https://progress-bar.dev/80/ "progresso")||
 |LINUX|  ![progress](https://progress-bar.dev/90/ "progresso")||
 |FREEBSD|  ![progress](https://progress-bar.dev/70/ "progresso") ||
 |PHP|  ![progress](https://progress-bar.dev/70/ "progresso")||
