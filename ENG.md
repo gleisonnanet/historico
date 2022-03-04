@@ -7,24 +7,24 @@
 
 | Ano  | Projeto                                            | --------------------- |
 |------|----------------------------------------------------| ------------------------------- |
-| 2011 |   Ana Droide Projeto com inteligência artificial<br> https://www.youtube.com/watch?v=9LbEjvrjT4M&t=147s |  |
-| 2012 |   Trabalhos em Telecom <br> https://www.youtube.com/watch?v=Ph72cm7VmCM | |
-| 2012 |   Simulador de transito desenvolvido para Porto Seguro <br> https://www.youtube.com/watch?v=IvKrzRsAi3Y | |
-| 2012 |  Parceria com assessoria fonográfica <br>Criação de e-commerce, websites  e edição  de vídeo https://www.youtube.com/watch?v=PwcTUzU90Qg | |
-|2013|ROBOTICA SA33 SEMPRE ALERTA HITECH 01 <br> https://www.youtube.com/watch?v=3coaRsbUnFQ | |
-|2013|Programa de TV local  tempo de conquista <br> https://www.youtube.com/watch?v=V1oxTLWcm3w | |
-|2015| Controle de acesso "cftv e reconhecimento facial" <br> https://www.youtube.com/watch?v=WJzpHXL1r74 |  |
-|2016 | Simulador de Asa Delta <br> https://www.youtube.com/watch?v=xKENdrhu-d4 <br> https://www.youtube.com/watch?v=OxrcJ1MtyJU&t=76s | |
-|2017 | Projeto i9corp <br> Projeto de sistemas gerenciamento de call cente | |
-|2017 | Prototipo Game <br> https://www.youtube.com/watch?v=Fgh2TyWNgH8&t=8s | |
+| 2011 |   Ana Droid Project with artificial intelligence<br> https://www.youtube.com/watch?v=9LbEjvrjT4M&t=147s |  |
+| 2012 |   telecom jobs  <br> https://www.youtube.com/watch?v=Ph72cm7VmCM | |
+| 2012 | Traffic simulator developed for a large Brazilian company Porto Seguro <br> https://www.youtube.com/watch?v=IvKrzRsAi3Y | |
+| 2012 | Partnership with phonographic consultancy  <br>E-commerce creation, websites and video editing https://www.youtube.com/watch?v=PwcTUzU90Qg | |
+|2013|ROBOTICA SA33 SEMPRE ALERTA HITECH   <br> https://www.youtube.com/watch?v=3coaRsbUnFQ | |
+|2013|Conquest time local TV show <br> https://www.youtube.com/watch?v=V1oxTLWcm3w | |
+|2015| Access control "cftv and facial recognition" <br> https://www.youtube.com/watch?v=WJzpHXL1r74 |  |
+|2016 | hang glider simulator <br> https://www.youtube.com/watch?v=xKENdrhu-d4 <br> https://www.youtube.com/watch?v=OxrcJ1MtyJU&t=76s | |
+|2017 | Project i9corp <br> Call center management systems design  | |
+|2017 | Project Game <br> https://www.youtube.com/watch?v=Fgh2TyWNgH8&t=8s | |
 |2019 | Palestra CAMPUS PARTY |  |
-|2019 |Cartão virtual <br> https://www.youtube.com/watch?v=F1Vi6wj-vys |  |
-|2019-2020| Web emplaca <br>Sistema de emplacamento de veículos <br> integração Serpro/Mercosul <br> integração Detran/Denatran | |
-|2021-2022 | Sistemas gestão de frota de ônibus e Marketplaces  b2b <br> Sistema de venda de ticket de ônibus em espanhol " Bolívia " |  |
+|2019 |virtual card <br> https://www.youtube.com/watch?v=F1Vi6wj-vys |  |
+|2019-2020| web plate  <br>Vehicle registration system <br> integration Serpro/Mercosul <br> integration Detran/Denatran brazil | |
+|2021-2022 | Bus fleet management systems and b2b Marketplaces  <br> Bus ticket sales system in Spanish "Bolivia" |  |
 
 
 
-|Habilidades| % ||
+|Ability| % ||
 |--| ---------------------------------------------------------------------------------------------- |--|
 |WINDOWS| ![progress](https://progress-bar.dev/80/ "progresso")|-----------------------------------------------------------------------------------------------------------------|
 |LINUX|  ![progress](https://progress-bar.dev/90/ "progresso")||
