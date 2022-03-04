@@ -24,7 +24,7 @@
 
 
 
-|Habilidades| % ||
+|Habilidades| % |-------------------------------|
 |--|--|--|
 |WINDOWS| ![progress](https://progress-bar.dev/80/ "progresso")|-------------------------------|
 |LINUX|  ![progress](https://progress-bar.dev/90/ "progresso")||
