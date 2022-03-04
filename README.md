@@ -5,7 +5,7 @@
 
 
 
-| Ano  | Projeto                                            | - |
+| Ano  | Projeto                                            | ----------------- |
 |------|----------------------------------------------------| ------------------------------- |
 | 2011 |   Ana Droide Projeto com inteligencia artificial<br> https://www.youtube.com/watch?v=9LbEjvrjT4M&t=147s |  |
 | 2012 |   Trabalhos em Telecom <br> https://www.youtube.com/watch?v=Ph72cm7VmCM | |
